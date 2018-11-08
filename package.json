@@ -1,0 +1,21 @@
+{
+  "name": "expofront",
+  "version": "1.0.0",
+  "description": "Expo DB visual project on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "expo",
+    "db",
+    "mean",
+    "Node"
+  ],
+  "author": "sanjat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
