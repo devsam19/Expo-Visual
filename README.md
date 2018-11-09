@@ -1,7 +1,6 @@
 # Expo-Visual
-
-Node Set up.
-Dashboard draft added.
+1. Node server set up on local host.
+2.Dashboard draft added.
 
 To be added 
  Front End
